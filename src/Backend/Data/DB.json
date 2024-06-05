@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Buddy",
+        "age": 3,
+        "category": "Dog",
+        "health_issue": "None",
+        "address": "123 Bark St, Dogtown, CA",
+        "gender": "Male"
+    },
+    {
+        "name": "Whiskers",
+        "age": 2,
+        "category": "Cat",
+        "health_issue": "Allergies",
+        "address": "456 Meow Ave, Catville, NY",
+        "gender": "Female"
+    },
+    {
+        "name": "Tweety",
+        "age": 1,
+        "category": "Bird",
+        "health_issue": "None",
+        "address": "789 Chirp Rd, Birdcity, TX",
+        "gender": "Male"
+    },
+    {
+        "name": "Bella",
+        "age": 4,
+        "category": "Dog",
+        "health_issue": "Arthritis",
+        "address": "321 Woof Ln, Poochtown, FL",
+        "gender": "Female"
+    },
+    {
+        "name": "Mittens",
+        "age": 5,
+        "category": "Cat",
+        "health_issue": "Diabetes",
+        "address": "654 Purr St, Kittytown, WA",
+        "gender": "Male"
+    },
+    {
+        "name": "Goldie",
+        "age": 1,
+        "category": "Fish",
+        "health_issue": "None",
+        "address": "987 Swim Blvd, Fishtown, OR",
+        "gender": "Female"
+    },
+    {
+        "name": "Hoppy",
+        "age": 2,
+        "category": "Rabbit",
+        "health_issue": "None",
+        "address": "123 Carrot Dr, Bunnyland, CO",
+        "gender": "Male"
+    },
+    {
+        "name": "Squeaky",
+        "age": 1,
+        "category": "Hamster",
+        "health_issue": "None",
+        "address": "456 Wheel St, Rodentville, IL",
+        "gender": "Female"
+    },
+    {
+        "name": "Rex",
+        "age": 6,
+        "category": "Dog",
+        "health_issue": "Blindness",
+        "address": "789 Bone Ave, Dogville, AZ",
+        "gender": "Male"
+    },
+    {
+        "name": "Shadow",
+        "age": 3,
+        "category": "Cat",
+        "health_issue": "Heart Murmur",
+        "address": "321 Shadow St, Catcity, GA",
+        "gender": "Female"
+    }
+]
