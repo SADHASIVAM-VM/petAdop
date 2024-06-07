@@ -60,17 +60,17 @@ export const Testimonials =
     {
         id:1,
         img:TesImg1,
-        desc:"one of the best way to express the felling on the pets and it never came to close"
+        desc:"Look at that goofy grin! [Your adoptee's name] is already plotting ways to steal your heart (and maybe your socks"
     },
     {
         id:2,
         img:TesImg2,
-        desc:"one of the best way to express the felling on the pets and it never came to close"
+        desc:"So grateful to have [Your adoptee's name] in our lives. Their love makes our family complete"
     },
     {
         id:3,
         img:TesImg3,
-        desc:"one of the best way to express the felling on the pets and it never came to close"
+        desc:"Thinking of adopting? Don't wait! There's a perfect furry friend waiting to meet you on Adopet."
     },
 
 ]

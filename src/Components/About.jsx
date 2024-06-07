@@ -9,7 +9,7 @@ const About = () => {
 
       <div className="flex md:flex-row flex-col items-center gap-5">
         <div className="md:3/4 flex items-start flex-col gap-5">
-          <p className='text-xl'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor impedit quod repudiandae, error animi dignissimos neque laudantium odio sapiente sequi?</p>
+          <p className='text-xl'>Find your furry soulmate! Browse adoptable pets near you, from playful pups to cuddly kittens. Change a life, adopt today.</p>
           <div className="flex gap-5 justify-center my-3">
           <p className='border-r-4 border-black px-2 flex flex-col md:text-4xl '><span className='text-xl font-bold md:text-4xl'>100+</span> Saved Pets </p>
           <p className='border-r-4 border-black px-2 flex flex-col md:text-4xl'><span className='text-xl font-bold md:text-4xl'>100%</span> Adoption Rate </p>
